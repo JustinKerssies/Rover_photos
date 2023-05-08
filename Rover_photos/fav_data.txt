@@ -1,0 +1,241 @@
+id : 102696
+sol : 999
+camera : {'id': 20, 'name': 'FHAZ', 'rover_id': 5, 'full_name': 'Front Hazard Avoidance Camera'}
+img_src : http://mars.jpl.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/00999/opgs/edr/fcam/FLB_486180911EDR_F0481570FHAZ00206M_.JPG
+earth_date : 2015-05-29
+rover : {'id': 5, 'name': 'Curiosity', 'landing_date': '2012-08-06', 'launch_date': '2011-11-26', 'status': 'active'}
+content type : image/jpeg
+base proportions : 1024 x 1024
+resize factor : 0.6348
+Favorite name : Test2
+&END_PHOTO
+id : 102698
+sol : 999
+camera : {'id': 20, 'name': 'FHAZ', 'rover_id': 5, 'full_name': 'Front Hazard Avoidance Camera'}
+img_src : http://mars.jpl.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/00999/opgs/edr/fcam/FLB_486180202EDR_F0481570FHAZ00206M_.JPG
+earth_date : 2015-05-29
+rover : {'id': 5, 'name': 'Curiosity', 'landing_date': '2012-08-06', 'launch_date': '2011-11-26', 'status': 'active'}
+content type : image/jpeg
+base proportions : 1024 x 1024
+resize factor : 0.6348
+Favorite name : SOMESUS
+&END_PHOTO
+id : 102695
+sol : 999
+camera : {'id': 20, 'name': 'FHAZ', 'rover_id': 5, 'full_name': 'Front Hazard Avoidance Camera'}
+img_src : http://mars.jpl.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/00999/opgs/edr/fcam/FRB_486180911EDR_F0481570FHAZ00206M_.JPG
+earth_date : 2015-05-29
+rover : {'id': 5, 'name': 'Curiosity', 'landing_date': '2012-08-06', 'launch_date': '2011-11-26', 'status': 'active'}
+content type : image/jpeg
+base proportions : 1024 x 1024
+resize factor : 0.6348
+Favorite name : Test
+&END_PHOTO
+id : 102702
+sol : 999
+camera : {'id': 20, 'name': 'FHAZ', 'rover_id': 5, 'full_name': 'Front Hazard Avoidance Camera'}
+img_src : http://mars.jpl.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/00999/opgs/edr/fcam/FRB_486178187EDR_F0481570FHAZ00206M_.JPG
+earth_date : 2015-05-29
+rover : {'id': 5, 'name': 'Curiosity', 'landing_date': '2012-08-06', 'launch_date': '2011-11-26', 'status': 'active'}
+content type : image/jpeg
+base proportions : 1024 x 1024
+resize factor : 0.6348
+Favorite name : Damian
+&END_PHOTO
+id : 731364
+sol : 2698
+camera : {'id': 22, 'name': 'MAST', 'rover_id': 5, 'full_name': 'Mast Camera'}
+img_src : https://mars.nasa.gov/msl-raw-images/msss/02698/mcam/2698ML0141230001003214E01_DXXX.jpg
+earth_date : 2020-03-09
+rover : {'id': 5, 'name': 'Curiosity', 'landing_date': '2012-08-06', 'launch_date': '2011-11-26', 'status': 'active'}
+content type : image/jpeg
+base proportions : 1328 x 1184
+resize factor : 0.5490
+favorite name : Yvonne
+&END_PHOTO
+id : 411628
+sol : 1001
+camera : {'id': 23, 'name': 'CHEMCAM', 'rover_id': 5, 'full_name': 'Chemistry and Camera Complex'}
+img_src : http://mars.jpl.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/01001/soas/rdr/ccam/CR0_486352169PRC_F0481570CCAM03000L2.PNG
+earth_date : 2015-05-31
+rover : {'id': 5, 'name': 'Curiosity', 'landing_date': '2012-08-06', 'launch_date': '2011-11-26', 'status': 'active'}
+content type : image/png
+base proportions : 1024 x 1024
+resize factor : 0.6348
+favorite name : Yvonne
+&END_PHOTO
+id : 102850
+sol : 1000
+camera : {'id': 21, 'name': 'RHAZ', 'rover_id': 5, 'full_name': 'Rear Hazard Avoidance Camera'}
+img_src : http://mars.jpl.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/01000/opgs/edr/rcam/RLB_486265291EDR_F0481570RHAZ00323M_.JPG
+earth_date : 2015-05-30
+rover : {'id': 5, 'name': 'Curiosity', 'landing_date': '2012-08-06', 'launch_date': '2011-11-26', 'status': 'active'}
+content type : image/jpeg
+base proportions : 1024 x 1024
+resize factor : 0.6348
+favorite name : test
+&END_PHOTO
+id : 141044
+sol : 1000
+camera : {'id': 16, 'name': 'NAVCAM', 'rover_id': 6, 'full_name': 'Navigation Camera'}
+img_src : http://mars.nasa.gov/mer/gallery/all/1/n/1000/1N216958451EFF76ZFP1950L0M1-BR.JPG
+earth_date : 2006-11-17
+rover : {'id': 6, 'name': 'Opportunity', 'landing_date': '2004-01-25', 'launch_date': '2003-07-07', 'status': 'complete'}
+content type : image/jpeg
+base proportions : 500 x 500
+resize factor : 1.3000
+favorite name : test
+&END_PHOTO
+id : 103387
+sol : 1000
+camera : {'id': 26, 'name': 'NAVCAM', 'rover_id': 5, 'full_name': 'Navigation Camera'}
+img_src : http://mars.jpl.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/01000/opgs/edr/ncam/NLB_486265119EDR_S0481570NCAM00546M_.JPG
+earth_date : 2015-05-30
+rover : {'id': 5, 'name': 'Curiosity', 'landing_date': '2012-08-06', 'launch_date': '2011-11-26', 'status': 'active'}
+content type : image/jpeg
+base proportions : 1024 x 512
+resize factor : 1.1719
+favorite name : Spooky mist
+&END_PHOTO
+id : 115249
+sol : 999
+camera : {'id': 14, 'name': 'FHAZ', 'rover_id': 6, 'full_name': 'Front Hazard Avoidance Camera'}
+img_src : http://mars.nasa.gov/mer/gallery/all/1/f/999/1F216871702EFF76Z0P1201L0M1-BR.JPG
+earth_date : 2006-11-16
+rover : {'id': 6, 'name': 'Opportunity', 'landing_date': '2004-01-25', 'launch_date': '2003-07-07', 'status': 'complete'}
+content type : image/jpeg
+base proportions : 500 x 500
+resize factor : 1.3000
+favorite name : Justin
+&END_PHOTO
+id : 468269
+sol : 378
+camera : {'id': 22, 'name': 'MAST', 'rover_id': 5, 'full_name': 'Mast Camera'}
+img_src : http://mars.jpl.nasa.gov/msl-raw-images/msss/00378/mcam/0378ML1558002000E1_DXXX.jpg
+earth_date : 2013-08-29
+rover : {'id': 5, 'name': 'Curiosity', 'landing_date': '2012-08-06', 'launch_date': '2011-11-26', 'status': 'active'}
+content type : image/jpeg
+base proportions : 1344 x 1200
+current proportions : 672.0 x 600.0
+resize factor : 0.5000
+favorite name : Richard
+&END_PHOTO
+id : 411635
+sol : 1000
+camera : {'id': 23, 'name': 'CHEMCAM', 'rover_id': 5, 'full_name': 'Chemistry and Camera Complex'}
+img_src : http://mars.jpl.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/01000/soas/rdr/ccam/CR0_486263086PRC_F0481570CCAM02000L1.PNG
+earth_date : 2015-05-30
+rover : {'id': 5, 'name': 'Curiosity', 'landing_date': '2012-08-06', 'launch_date': '2011-11-26', 'status': 'active'}
+content type : image/png
+base proportions : 1024 x 1024
+current proportions : 600.0 x 600.0
+resize factor : 0.5859
+favorite name : Justin
+&END_PHOTO
+id : 217453
+sol : 999
+camera : {'id': 17, 'name': 'PANCAM', 'rover_id': 6, 'full_name': 'Panoramic Camera'}
+img_src : http://mars.nasa.gov/mer/gallery/all/1/p/999/1P216870330EFF76XAP2425R2M1-BR.JPG
+earth_date : 2006-11-16
+rover : {'id': 6, 'name': 'Opportunity', 'landing_date': '2004-01-25', 'launch_date': '2003-07-07', 'status': 'complete'}
+content type : image/jpeg
+base proportions : 500 x 500
+current proportions : 600.0 x 600.0
+resize factor : 1.2000
+favorite name : Ravine
+&END_PHOTO
+id : 158708
+sol : 985
+camera : {'id': 17, 'name': 'PANCAM', 'rover_id': 6, 'full_name': 'Panoramic Camera'}
+img_src : http://mars.nasa.gov/mer/gallery/all/1/p/985/1P215633721EFF76POP2415L2M1-BR.JPG
+earth_date : 2006-11-02
+rover : {'id': 6, 'name': 'Opportunity', 'landing_date': '2004-01-25', 'launch_date': '2003-07-07', 'status': 'complete'}
+content type : image/jpeg
+base proportions : 500 x 500
+current proportions : 600.0 x 600.0
+resize factor : 1.2000
+favorite name : cliff
+&END_PHOTO
+id : 1117867
+sol : 3784
+camera : {'id': 26, 'name': 'NAVCAM', 'rover_id': 5, 'full_name': 'Navigation Camera'}
+img_src : https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03784/opgs/edr/ncam/NRB_733416060EDR_S1002208NCAM00594M_.JPG
+earth_date : 2023-03-30
+rover : {'id': 5, 'name': 'Curiosity', 'landing_date': '2012-08-06', 'launch_date': '2011-11-26', 'status': 'active'}
+content type : image/jpeg
+base proportions : 1024 x 512
+current proportions : 1100.0 x 550.0
+resize factor : 1.0742
+favorite name : Nice
+&END_PHOTO
+id : 286670
+sol : 56
+camera : {'id': 27, 'name': 'FHAZ', 'rover_id': 7, 'full_name': 'Front Hazard Avoidance Camera'}
+img_src : http://mars.nasa.gov/mer/gallery/all/2/f/056/2F131346078EFF1155P1234L0M1-BR.JPG
+earth_date : 2004-03-01
+rover : {'id': 7, 'name': 'Spirit', 'landing_date': '2004-01-04', 'launch_date': '2003-06-10', 'status': 'complete'}
+content type : image/jpeg
+base proportions : 500 x 500
+current proportions : 600.0 x 600.0
+resize factor : 1.2000
+favorite name : sad face
+&END_PHOTO
+id : 317595
+sol : 56
+camera : {'id': 29, 'name': 'NAVCAM', 'rover_id': 7, 'full_name': 'Navigation Camera'}
+img_src : http://mars.nasa.gov/mer/gallery/all/2/n/056/2N131344812EFF1151P1940L0M1-BR.JPG
+earth_date : 2004-03-01
+rover : {'id': 7, 'name': 'Spirit', 'landing_date': '2004-01-04', 'launch_date': '2003-06-10', 'status': 'complete'}
+content type : image/jpeg
+base proportions : 500 x 500
+current proportions : 600.0 x 600.0
+resize factor : 1.2000
+favorite name : sad face2
+&END_PHOTO
+id : 652210
+sol : 1980
+camera : {'id': 20, 'name': 'FHAZ', 'rover_id': 5, 'full_name': 'Front Hazard Avoidance Camera'}
+img_src : http://mars.jpl.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/01980/opgs/edr/fcam/FLB_573264006EDR_F0680580FHAZ00337M_.JPG
+earth_date : 2018-03-02
+rover : {'id': 5, 'name': 'Curiosity', 'landing_date': '2012-08-06', 'launch_date': '2011-11-26', 'status': 'active'}
+base proportions : 1024 x 1024
+current proportions : 480.0 x 480.0
+resize factor : 0.4688
+favorite name : nice
+&END_PHOTO
+id : 654545
+sol : 5039
+camera : {'id': 17, 'name': 'PANCAM', 'rover_id': 6, 'full_name': 'Panoramic Camera'}
+img_src : https://mars.nasa.gov/mer/gallery/all/1/p/5039/1P575537974EFFD200P2446R2M1-BR.JPG
+earth_date : 2018-03-29
+rover : {'id': 6, 'name': 'Opportunity', 'landing_date': '2004-01-25', 'launch_date': '2003-07-07', 'status': 'complete'}
+content type : image/jpeg
+base proportions : 500 x 500
+current proportions : 480.0 x 480.0
+resize factor : 0.9600
+favorite name : suuuuus
+&END_PHOTO
+id : 105987
+sol : 3962
+camera : {'id': 15, 'name': 'RHAZ', 'rover_id': 6, 'full_name': 'Rear Hazard Avoidance Camera'}
+img_src : http://mars.nasa.gov/mer/gallery/all/1/r/3962/1R479912634EFFCMC5P1301R0M1-BR.JPG
+earth_date : 2015-03-18
+rover : {'id': 6, 'name': 'Opportunity', 'landing_date': '2004-01-25', 'launch_date': '2003-07-07', 'status': 'complete'}
+content type : image/jpeg
+base proportions : 500 x 500
+current proportions : 629.0 x 629.0
+resize factor : 1.2580
+favorite name : None
+&END_PHOTO
+id : 302491
+sol : 780
+camera : {'id': 29, 'name': 'NAVCAM', 'rover_id': 7, 'full_name': 'Navigation Camera'}
+img_src : http://mars.nasa.gov/mer/gallery/all/2/n/780/2N195608236EFFAQ00P0781R0M1-BR.JPG
+earth_date : 2006-03-15
+rover : {'id': 7, 'name': 'Spirit', 'landing_date': '2004-01-04', 'launch_date': '2003-06-10', 'status': 'complete'}
+content type : image/jpeg
+base proportions : 500 x 500
+current proportions : 629.0 x 629.0
+resize factor : 1.2580
+favorite name : None
+&END_PHOTO
